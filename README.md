@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Mert MURAT
+#### Software Development
+![Software Development](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
 
-<!--
-**MertMURAT/MertMURAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mert from Turkey and I do content backend development.
 
-Here are some ideas to get you started:
+Skills: Java / Swift 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
