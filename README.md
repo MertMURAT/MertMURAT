@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mert MURAT</h1>
 <h3 align="center">My specialties include quickly learning new programming languages and skills, problem solving, backend design technologies. So far, I have experience in Java, Swift, SQL, Spring. I’m currently learning Spring Boot.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://user-images.githubusercontent.com/75498641/177029595-05dde787-4bf6-4222-a9c3-663005f70510.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75498641/177029595-05dde787-4bf6-4222-a9c3-663005f70510.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmurat&label=Profile%20views&color=0e75b6&style=flat" alt="mertmurat" /> </p>
 
